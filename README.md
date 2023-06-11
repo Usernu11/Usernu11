@@ -26,7 +26,7 @@ Now live in Switzerland
 - 📧 How to reach me: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Bohdan-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-lavrentiev-%F0%9F%87%A8%F0%9F%87%AD-8b4054203) 
 [![Telegram Badge](https://img.shields.io/static/v1?label=Telegram&message=Firefly_718&style=plastic&color=blue)](https://www.linkedin.com/in/bohdan-lavrentiev-%F0%9F%87%A8%F0%9F%87%AD-8b4054203)
-[![Mail Badge](https://img.shields.io/static/v1?label=G&message=mail&style=plastic&color=orange)](mailto:system.bla.16@gmail.com)
+[![Mail Badge](https://img.shields.io/static/v1?label=G&message=mail&style=plastic&color=orange)](mailto:web.dev.firefly@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -40,3 +40,8 @@ Now live in Switzerland
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Usernu11&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usernu11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
