@@ -26,4 +26,4 @@ Now live in Switzerland
 - 📧 How to reach me: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Bohdan-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-lavrentiev-%F0%9F%87%A8%F0%9F%87%AD-8b4054203) 
 [![Telegram Badge](https://img.shields.io/static/v1?label=Telegram&message=Firefly_718&color=blue)](https://www.linkedin.com/in/bohdan-lavrentiev-%F0%9F%87%A8%F0%9F%87%AD-8b4054203)
-[![Mail Badge](https://img.shields.io/static/v1?label=G&message=mail&color=orange)](system.bla.16@gmail.com)
+[![Mail Badge](https://img.shields.io/static/v1?label=G&message=mail&color=orange)](mailto:system.bla.16@gmail.com)
