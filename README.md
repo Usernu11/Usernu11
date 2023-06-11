@@ -25,5 +25,5 @@ Now live in Switzerland
 - ✨ In my free time, I explore new web-features, create interesting pet-projects, learn new languages
 - 📧 How to reach me: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Bohdan-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-lavrentiev-%F0%9F%87%A8%F0%9F%87%AD-8b4054203) 
-[![Telegram Badge](https://img.shields.io/static/v1?label=Telegram&message=Firefly_718&color=blue)](https://www.linkedin.com/in/bohdan-lavrentiev-%F0%9F%87%A8%F0%9F%87%AD-8b4054203)
-[![Mail Badge](https://img.shields.io/static/v1?label=G&message=mail&color=orange)](mailto:system.bla.16@gmail.com)
+[![Telegram Badge](https://img.shields.io/static/v1?label=Telegram&message=Firefly_718&style=plastic&color=blue)](https://www.linkedin.com/in/bohdan-lavrentiev-%F0%9F%87%A8%F0%9F%87%AD-8b4054203)
+[![Mail Badge](https://img.shields.io/static/v1?label=G&message=mail&style=plastic&color=orange)](mailto:system.bla.16@gmail.com)
