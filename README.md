@@ -19,7 +19,7 @@
 </div>
 
 ### 👨‍💻: About Me :
-I'm Front-End developer from Ukraine. <br>
+I'm Front-End developer<br>
 Now live in Switzerland.
 - 🌱 Explore now TypeScript and React;
 - ✨ In my free time, I explore new web-features, create interesting pet-projects, learn new languages;
